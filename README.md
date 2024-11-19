@@ -6,7 +6,6 @@ undersetzt die Zeilen mit deinen Werten
         private const string ClientId = "DEINE-CLIENT-ID";
         private const string ClientSecret = "DEIN-CLIENT-SECRET";
         private string BexioApiAccessToken = "DEIN-BEXIO-API-KEY";
-
         private const string BexioApiUrl = "DIENE-BEXIO-API-URL";
         private const string RedirectUri = "DEIN-REDIRECT-URL";
         private const string ContactsEndpoint = "DEIN-CONTACT-ENDPOINT";
