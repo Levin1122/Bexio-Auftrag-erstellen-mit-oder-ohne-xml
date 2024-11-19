@@ -1,7 +1,7 @@
 Steps zum erfolgreichem starten des Programms:
 - Erstelle ein Konto bei Bexio https://www.bexio.com
 - Gehe unter Controllers/AuftragController.cs
-undersetzt die Zeilen mit deinen Werten
+und ersetzt diese Zeilen mit deinen Werten
 
         private const string XmlFilePath = @"DEIN-XML-FILE-PATH";
         private const string ClientId = "DEINE-CLIENT-ID";
